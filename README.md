@@ -17,3 +17,5 @@
 ## Используемые программы:
 * VSCode
 * Git
+
+## [Ссылка на проект: Russian-travel](https://alena-st-code.github.io/russian-travel/index.html)
