@@ -1,0 +1,20 @@
+.place__paragraph {
+  margin: 0;
+}
+
+.place__paragraph:first-child {
+  margin-bottom: 26px;
+}
+
+@media screen and (max-width: 1279px) {
+  .place__paragraph:first-child {
+    margin-bottom: 27px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraph:first-child {
+    margin-bottom: 25px;
+  }
+}
+
