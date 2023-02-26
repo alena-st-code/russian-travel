@@ -5,9 +5,15 @@
   line-height: 29.34px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1023px) {
   .place__text {
     font-size: 16px;
     line-height: 26.08px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__text {
+    margin: 0 16px;
   }
 }
